@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="date_formatter_pattern">MM/dd/yyyy - HH:mm</string>
+
+    <string name="app_name">TicTacToe</string>
+    <string name="restart">Restart</string>
+    <string name="text_cross_turn">X\'s turn</string>
+    <string name="text_circle_turn">O\'s turn</string>
+    <string name="text_tied">Tied</string>
+    <string name="text_cross_won">X\'s wins</string>
+    <string name="text_circle_won">O\'s wins</string>
+    <string name="text_play">Play</string>
+    <string name="text_results">Results</string>
+    <string name="text_attention">Attention</string>
+    <string name="text_exit_message">Do you really want to leave the game? Any progress made will be lost.</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="text_versus_abr">VS</string>
+    <string name="text_hint_change_images">Touch the icons above to customize!</string>
+    <string name="text_type_here">Type here…</string>
+    <string name="error_search">Something went wrong while loading the images. Try again.</string>
+    <string name="text_something_went_wrong">Wow! Something wen\'t wrong. Touch here to try again.</string>
+    <string name="text_nothing_found">No images found :(</string>
+    <string name="text_zero_matches">There\'s no results to show. Go find someone to play!</string>
+    <string name="clear">Clear</string>
+
+</resources>
